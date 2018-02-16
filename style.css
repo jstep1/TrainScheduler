@@ -1,0 +1,17 @@
+.hdr {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 2%;
+}
+
+.card {
+    margin-bottom: 2%;
+}
+#title {
+    font-weight: bold;
+}
+
+p {
+    margin: -5%;
+}
